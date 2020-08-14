@@ -1,4 +1,6 @@
-### Hi there 👋
+# Lucas Ferronato :man_technologist:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasferronato/)](https://www.linkedin.com/in/maykodouglasof/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.fe.pelle@gmail.com)](mailto:lucas.fe.pelle@gmail.com)
 
 <!--
 **LFerronato/lferronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
