@@ -8,7 +8,9 @@
 
 > Desenvolvedor backend em NodeJS
 
-> Experiencia com servidor, deploy, domínio, DNS, SSL, Nginx, etc
+> Experiência com servidor, deploy, domínio, DNS, SSL, Nginx, etc
+
+> Experiência com Dev Mobile App (React Native) - estrader.com.br
 
 > Entusiasta de tecnologia
 
