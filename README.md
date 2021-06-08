@@ -8,7 +8,7 @@
 
 > Desenvolvedor backend em NodeJS
 
-> Esperiencia com servidor, deploy, domínio, DNS, SSL, Nginx, etc
+> Experiencia com servidor, deploy, domínio, DNS, SSL, Nginx, etc
 
 > Entusiasta de tecnologia
 
