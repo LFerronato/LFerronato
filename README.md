@@ -6,13 +6,13 @@
 
 > Especialista, Professor e Consultor em Excel, VBA e Power BI 💚💛
 
-> Desenvolvedor backend em NodeJS
+> Desenvolvedor Fullstack (express, nextjs, expo)
 
-> Experiência com servidor, deploy, domínio, DNS, SSL, Nginx, etc
+> Experiência com servidor, deploy, domínio, DNS, SSL, Nginx e etc
 
 > Experiência com Dev Mobile App (React Native) - estrader.com.br
 
-> Entusiasta de tecnologia
+> Entusiasta de tecnologia e business (soluções que agregam valor!)
 
 <!--
 **LFerronato/lferronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
