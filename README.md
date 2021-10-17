@@ -10,7 +10,11 @@
 
 > Experiência com servidor, deploy, domínio, DNS, SSL, Nginx e etc
 
-> Experiência com Dev Mobile App (React Native) - estrader.com.br
+> Experiência com Dev Mobile App (React Native) - [estrader.com.br](https://estrader.com.br)
+
+> Experiência com Dev Fullstack (Express, NextJS) - Plataforma para Alunos da Excel Solutions - [plataforma](https://essap.excelsolutions.com.br)
+
+> Outros projetos.
 
 > Entusiasta de tecnologia e business (soluções que agregam valor!)
 
