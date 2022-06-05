@@ -15,6 +15,10 @@
 - 💬 Entusiasta de inovação, tecnologia e business (soluções que agregam valor!)
 
 - ⚡ Hobbies: Jogos e Séries
+
+<center>
+<img src="building.gif" alt="Building the Future" style="height: 200px; width:354px;"/>
+</center>
 <!--
 **LFerronato/lferronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
