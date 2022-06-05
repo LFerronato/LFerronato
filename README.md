@@ -2,20 +2,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasferronato/)](https://www.linkedin.com/in/lucasferronato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.fe.pelle@gmail.com)](mailto:lucas.fe.pelle@gmail.com)
 
-> Software Engineer - na Arco Tech
+- 🔭 Software Engineer II - na Arcotech | SAE Digital
 
-> Especialista, Professor e Consultor em Excel, VBA e Power BI 💚💛
+- Fullstack ( Node/Express, NextJS/React )
 
-> Experiência com servidor, deploy, domínio, DNS, SSL, Nginx e etc
+- Especialista, Professor e Consultor em Excel, VBA e Power BI 💚💛
 
-> Experiência com Dev Mobile App (React Native, NextJS, MQL5) - [estrader.com.br](https://estrader.com.br)
+- Experiência com deploy servidor VPC, Github Actions, domínios/DNS, SSL, Nginx.
 
-> Experiência com Dev Fullstack (Express, NextJS) - Plataforma para Alunos da Excel Solutions - [plataforma](https://essap.excelsolutions.com.br)
+- Experiência com Dev Mobile App (React Native, NextJS, MQL5) - Projeto: [estrader.com.br](https://estrader.com.br)
 
-> Outros projetos.
+- 💬 Entusiasta de inovação, tecnologia e business (soluções que agregam valor!)
 
-> Entusiasta de tecnologia e business (soluções que agregam valor!)
-
+- ⚡ Hobbies: Jogos e Séries
 <!--
 **LFerronato/lferronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
