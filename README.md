@@ -10,6 +10,8 @@
 
 - Experiência com deploy servidor VPC, Github Actions, domínios/DNS, SSL, Nginx.
 
+- Experiência com docker, docker-compose (estudando Kubernetes)
+
 - Experiência com Dev Mobile App (React Native, NextJS, MQL5) - Projeto: [estrader.com.br](https://estrader.com.br)
 
 - 💬 Entusiasta de inovação, tecnologia e business (soluções que agregam valor!)
