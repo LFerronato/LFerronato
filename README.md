@@ -16,7 +16,7 @@
 
 - 💬 Entusiasta de inovação, tecnologia e business (soluções que agregam valor!)
 
-- ⚡ Hobbies: Jogos e Séries
+- ⚡ Hobbies: CodeChallenges, Jogos e Séries
 
 <center>
 <img src="building.gif" alt="Building the Future" style="height: 200px; width:354px;"/>
