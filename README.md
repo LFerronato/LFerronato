@@ -1,27 +1,30 @@
-# Lucas Ferronato :man_technologist:
+# Lucas Ferronato 👨‍💻
 
-👋 an eternal student and technology enthusiast. I enjoy exploring everything from memory allocation to the end-user value a product delivers.
+Software Engineer with experience spanning automation, data engineering, fullstack development, frontend architecture and technical leadership.
 
-Currently learning **Zig** and experimenting with new languages and paradigms. I identify primarily as a **Software Engineer**, regardless of job title. I care about the fundamentals and like to understand how all the pieces of a system fit together.
+I've worked across multiple layers of software development, which shaped my perspective as an engineer: understanding systems end-to-end, from infrastructure and data to product experience and business impact.
 
-🧠 Although recent roles have been more **front-end** focused, I don’t restrict myself to that universe. I see the challenge of connecting backend, infrastructure, and product as essential and fun. I’ve gravitated toward front-end work because it’s challenging — and I enjoy a good challenge.
+I enjoy platform thinking, cross-team engineering challenges and building systems that scale beyond a single product or team.
 
-🎓 also, I taught programming and Excel for 7 years and love sharing knowledge.
+Currently exploring Zig and systems programming to deepen my understanding of software fundamentals while building products and studying entrepreneurship.
 
-## My journey in stages
+## Interests
 
-- **Stage 5 – Staff/Spec Software Engineer:** technical leadership, platform architecture, mentoring.
-- **Stage 4 – Frontend Engineer:** rich interfaces, accessibility, performance, design systems.
-- **Stage 3 – Fullstack Developer:** API integration, microservices, user experience.
-- **Stage 2 – Data Engineering:** data pipelines, modeling, analytics.
-- **Stage 1 – Automation with scripts and MS Stack:** VBA, macros, process automation.
+- Software architecture
+- Product engineering
+- AI (with a focus on cost-effectiveness)
+- Frontend performance (globally)
+- Distributed systems
+- Developer experience
+- Entrepreneurship
 
-## A little more about me
+## Background
 
-- **Professor & specialist:** Excel, VBA, Power BI, Azure ADF.
-- **DevOps & Infrastructure:** VPC deployments, GitHub Actions, domain/DNS management, SSL, reverse proxy.
-- **Interests:** AI, software engineering, business, innovation, education.
-- **Hobbies:** code challenges, games, and series.
+- 7 years teaching programming and technology
+- Experience in EdTech, startups and financial planning systems
+- Former Data Engineer, Fullstack Developer, Frontend Engineer and Staff/Specialist Engineer
+
+> Stack: automation, data, backend, frontend, infrastructure and whatever the problem requires (fundamentals transfer better than technologies).
 
 <center>
 <img src="42.gif" alt="42 meme" style="marging: 0 auto; height: 200px; width:200px;"/>
