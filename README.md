@@ -1,23 +1,28 @@
 # Lucas Ferronato :man_technologist:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasferronato/)](https://www.linkedin.com/in/lucasferronato/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.fe.pelle@gmail.com)](mailto:lucas.fe.pelle@gmail.com)
 
-- 👨‍💻 Specialist/Staff Software Engineer - na Arcotech | Arco Educação
+👋 an eternal student and technology enthusiast. I enjoy exploring everything from memory allocation to the end-user value a product delivers.
 
-- Especialista Frontend ( principalmente NextJS/React )
+Currently learning **Zig** and experimenting with new languages and paradigms. I identify primarily as a **Software Engineer**, regardless of job title. I care about the fundamentals and like to understand how all the pieces of a system fit together.
 
-- Especialista e professor de Excel, VBA, Power BI e ADF
+🧠 Although recent roles have been more **front-end** focused, I don’t restrict myself to that universe. I see the challenge of connecting backend, infrastructure, and product as essential and fun. I’ve gravitated toward front-end work because it’s challenging — and I enjoy a good challenge.
 
-- Experiência com deploy servidor VPC, GH Actions, gestão de domínios/DNS, SSL, reverse-proxy.
+🎓 also, I taught programming and Excel for 7 years and love sharing knowledge.
 
-- Experiência com arquiteturas distribuídas (microserviços), escalambilidade horizontal, e comunição asyncrona (mensageria).
+## My journey in stages
 
-- Experiência com Dev Mobile App (React Native, NextJS, MQL5)
+- **Stage 5 – Staff/Spec Software Engineer:** technical leadership, platform architecture, mentoring.
+- **Stage 4 – Frontend Engineer:** rich interfaces, accessibility, performance, design systems.
+- **Stage 3 – Fullstack Developer:** API integration, microservices, user experience.
+- **Stage 2 – Data Engineering:** data pipelines, modeling, analytics.
+- **Stage 1 – Automation with scripts and MS Stack:** VBA, macros, process automation.
 
-- 💬 Entusiasta de inovação, tecnologia e business - soluções que agregam valor!
+## A little more about me
 
-- ⚡ Hobbies: CodeChallenges, Jogos e Séries
+- **Professor & specialist:** Excel, VBA, Power BI, Azure ADF.
+- **DevOps & Infrastructure:** VPC deployments, GitHub Actions, domain/DNS management, SSL, reverse proxy.
+- **Interests:** AI, software engineering, business, innovation, education.
+- **Hobbies:** code challenges, games, and series.
 
 <center>
-<img src="building.gif" alt="Building the Future" style="height: 200px; width:354px;"/>
+<img src="42.gif" alt="42 meme" style="height: 200px; width:354px;"/>
 </center>
