@@ -24,5 +24,5 @@ Currently learning **Zig** and experimenting with new languages and paradigms. I
 - **Hobbies:** code challenges, games, and series.
 
 <center>
-<img src="42.gif" alt="42 meme" style="height: 200px; width:354px;"/>
+<img src="42.gif" alt="42 meme" style="marging: 0 auto; height: 200px; width:200px;"/>
 </center>
